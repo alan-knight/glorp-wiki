@@ -1,4 +1,4 @@
 glorp-wiki
 ==========
 
-A place to host the Glorp wiki (not sources)
+The Glorp Wiki is actually hosted at the main Glorp site, http://www.glorp.org (currently on Google sites).
